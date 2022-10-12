@@ -1,0 +1,7 @@
+{
+  "installDependencies": true,
+  "startCommand": "npm run test",
+  "env": {
+    "ENABLE_CJS_IMPORTS": true
+  }
+}
